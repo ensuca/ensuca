@@ -6,6 +6,7 @@ I also worked on various freelance projects and shared these systems on my GitHu
 I am a permanent candidate in the world of technology and it is exciting for me to follow the innovations in the industry. I think I stand out with my ability to adapt to flexible working hours and my ability to collaborate effectively in a team environment.
 https://www.linkedin.com/in/enes-uca-41039327b/
 Leetcode : ![Leetcode Stats](https://leetcard.jacoblin.cool/ensuca)
+Linkedin : https://www.linkedin.com/in/enes-uca-41039327b/
 <!--
 **ensuca/ensuca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
