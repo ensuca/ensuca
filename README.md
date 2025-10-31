@@ -133,7 +133,7 @@ I am looking for environments where reliability is treated as a feature, not an 
 Linkedin : https://www.linkedin.com/in/enes-uca-41039327b/
 
 --- 
-Leetcode : ![Leetcode Stats](https://leetcard.jacoblin.cool/ensuca)
+![Leetcode Stats](https://leetcard.jacoblin.cool/ensuca)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ensuca&layout=compact&theme=radical)
 
 ---
