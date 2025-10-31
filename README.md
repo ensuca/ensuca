@@ -130,22 +130,15 @@ I am particularly interested in roles that provide exposure to modern cloud-nati
 
 I am looking for environments where reliability is treated as a feature, not an afterthought, and where there is organizational commitment to investing in the operational aspects of systems alongside feature development. I am seeking opportunities to work with talented engineers who are passionate about building reliable systems, share knowledge effectively, and collaborate to solve complex technical challenges collectively.
 
----
+Linkedin : https://www.linkedin.com/in/enes-uca-41039327b/
 
-**📊 GitHub Stats** (if you want to add GitHub stats widgets)
-
-![Enes's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ensuca&show_icons=true&theme=radical)
-
+--- 
+Leetcode : ![Leetcode Stats](https://leetcard.jacoblin.cool/ensuca)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ensuca&layout=compact&theme=radical)
 
 ---
 
 *"Building software that makes a difference, one commit at a time."*
-
-
-Linkedin : https://www.linkedin.com/in/enes-uca-41039327b/
-Leetcode : ![Leetcode Stats](https://leetcard.jacoblin.cool/ensuca)
-
 
 <!--
 **ensuca/ensuca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
