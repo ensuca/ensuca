@@ -130,7 +130,6 @@ I am particularly interested in roles that provide exposure to modern cloud-nati
 
 I am looking for environments where reliability is treated as a feature, not an afterthought, and where there is organizational commitment to investing in the operational aspects of systems alongside feature development. I am seeking opportunities to work with talented engineers who are passionate about building reliable systems, share knowledge effectively, and collaborate to solve complex technical challenges collectively.
 
-Linkedin : https://www.linkedin.com/in/enes-uca-41039327b/
 
 --- 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/ensuca)
